@@ -1,4 +1,4 @@
-# lorenz-controlling-chaos
+# lorenz-parametric-perturbations
 The Lorenz system is an example of a dynamical system where a system of deterministic equations generates a system that evolves in an unpredictable way, because very small variations in the initial conditions amplify through time to a degree that, to have perfect knowledge of the future, one should have an infinitely precice knowledge of the initial conditions.
 This kind of systems are called "chaotic systems" for their upredictable behavior.
 
